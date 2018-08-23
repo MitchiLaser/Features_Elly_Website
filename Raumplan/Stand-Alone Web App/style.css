@@ -1,0 +1,32 @@
+html{
+    margin: 0;
+    border: none;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    margin: 0;
+    border: none;
+    padding: 0;
+}
+menu > ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+menu > ul > li{
+    padding: 10px;
+    border-bottom: solid 1px #398ac9;
+    margin: 0;
+    padding: 10px;
+    cursor: pointer;
+}
+menu > ul > li:hover,
+menu > ul > li.aktiviert{
+    border: solid 1px #398ac9;
+    border-bottom: none;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 9px;
+    padding-bottom: 11px;
+}
