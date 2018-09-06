@@ -1,0 +1,14 @@
+[
+    {
+        "room":"Eingangshalle",
+        "number":null,
+        "groupId":"Eingangshalle",
+        "name":"Eingangshalle"
+    },
+    {
+        "room":"001",
+        "number":1,
+        "groupId":"001",
+        "name":null
+    }
+]
