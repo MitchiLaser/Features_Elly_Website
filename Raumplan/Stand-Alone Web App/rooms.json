@@ -1,14 +1,27 @@
 [
     {
-        "room":"Eingangshalle",
-        "number":null,
-        "groupId":"Eingangshalle",
-        "name":"Eingangshalle"
+        "nummer":null,
+        "name":"Eingangshalle",
+        "id":"Eingangshalle",
+        "stockwerk":0
     },
     {
-        "room":"001",
-        "number":1,
-        "groupId":"001",
-        "name":null
+        "nummer":"001",
+        "name":"Schülerbücherei",
+        "id":"001",
+        "stockwerk":0
+    },
+    {
+        "nummer":"005",
+        "name":null,
+        "id":"005",
+        "stockwerk":0
+    }
+    ,
+    {
+        "nummer":"205",
+        "name":null,
+        "id":"205",
+        "stockwerk":2
     }
 ]

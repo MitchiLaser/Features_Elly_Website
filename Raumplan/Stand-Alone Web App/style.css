@@ -45,6 +45,9 @@ menu > ul > li.aktiviert{
 }
 
 /* Untermenü Stockwerkauswahl*/
+#Stockwerkauswahl{
+    display: none;
+}
 #Stockwerkauswahl ul{
     list-style-type: none;
     display: flex;
@@ -81,6 +84,12 @@ menu > ul > li.aktiviert{
 /* Menü Raumsuche */
 #Raumsuche p:first-child{
     padding-left: 5%;
+}
+
+/* Layout fuer das Auswahlfeld */
+#RaumnummerAuswahl{
+    /*border-radius: none;
+    border: none;*/
 }
 
 /* Der Schulhausplan */
