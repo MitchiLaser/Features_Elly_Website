@@ -43,6 +43,10 @@ menu > ul > li.aktiviert{
     background-color: #fff;
     color: #1976D2;
 }
+/* optionale Zusatzfunktion, Einsatz noch umstritten
+menu > ul > li.aktiviert{
+    color: #0D47A1;
+}*/
 
 /* Untermenü Stockwerkauswahl*/
 #Stockwerkauswahl{
@@ -58,7 +62,7 @@ menu > ul > li.aktiviert{
 #Stockwerkauswahl li{
     margin: 0;
     padding: 10px;
-    border: solid 1px #1976D2;
+    border: solid 1px #0D47A1;
     border-top: none;
     color: #000;
     background-color: #fff;
@@ -67,7 +71,7 @@ menu > ul > li.aktiviert{
     line-height: 1.5rem;
 }
 #Stockwerkauswahl li:last-child{
-    border-top: solid 1px #1976D2;
+    border-top: solid 1px #0D47A1;
 }
 #Stockwerkauswahl li:hover,
 #Stockwerkauswahl li:focus,
@@ -88,6 +92,8 @@ menu > ul > li.aktiviert{
 
 /* Layout fuer das Auswahlfeld */
 #RaumnummerAuswahl{
+    line-height: 1.5rem;
+    font-size: 1rem;
     /*border-radius: none;
     border: none;*/
 }
@@ -96,4 +102,17 @@ menu > ul > li.aktiviert{
 #Grundriss{
     margin: auto;
     display: block;
+}
+
+/* Das Auswahlmenü für die Raumsuche */
+#Raumsuche select{
+
+}
+
+/* Die Überschriften für jedes Stockwerk */
+#Headlines h1{
+    display: none;
+    margin: auto 5% auto 5%;
+    color: #1976D2;
+    font-size: 2rem;
 }
