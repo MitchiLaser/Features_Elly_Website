@@ -27,7 +27,7 @@ window.addEventListener("load", function () {
         StockwerkAnzeigen(selectedRoom.stockwerk);
         RaumAnzeigen(selectedRoom.id);
 
-        // TODO: Problem: zuerst ausgewählter Raum kann nicht zuerst ausgewählt werden 
+        // TODO: Problem: zuerst ausgewählter Raum kann nicht zuerst ausgewählt werden
     });
 
 
@@ -142,8 +142,6 @@ window.addEventListener("load", function () {
             }
         })
     }
-
-    // TODO: bei sanitären anlagen aufruf wc eg hervorheben
 
 
 
