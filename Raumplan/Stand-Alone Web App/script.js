@@ -27,7 +27,11 @@ window.addEventListener("load", function () {
         StockwerkAnzeigen(selectedRoom.stockwerk);
         RaumAnzeigen(selectedRoom.id);
 
-        // TODO: Problem: zuerst ausgewählter Raum kann nicht zuerst ausgewählt werden
+        // Problem: zuerst ausgewählter Raum kann nicht zuerst ausgewählt werden
+        // Lösung: ein Dummy-Objekt, das nach der ersten Auswahl entfernt wird
+        if(RaumnummerFeld.innerHTML.match("<option>...</option>")){
+            RaumnummerFeld.innerHTML = RaumnummerFeld.innerHTML.substr(20, RaumnummerFeld.innerHTML.length - 20);
+        }
     });
 
 
@@ -77,12 +81,15 @@ window.addEventListener("load", function () {
     
     /*
      * Event Handler, um das Menü für die Stockwerkauswahl einzublenden / auszublenden
+     * Außerdem wird das Dummy Auswahl-Element wieder hinzugefügt
      */
     Hauptmenue[0].addEventListener("click", function(){
         document.getElementById("Stockwerkauswahl").style.display = 'none';
         document.getElementById("Raumsuche").style.display = 'block';
 
-
+        if(!RaumnummerFeld.innerHTML.match("<option>...</option>")){
+            RaumnummerFeld.innerHTML = "<option>...</option>" + RaumnummerFeld.innerHTML;
+        }
     })
     for(var i = 1; i < Hauptmenue.length; i++){
         Hauptmenue[i].addEventListener("click", function(){
@@ -192,7 +199,7 @@ window.addEventListener("load", function () {
 
 // Prototyp-Funktion, um aus den Rauminfos das Auswahlmenü für die Raumsuche aufzubauen
 Array.prototype.buildMenue = function(){
-    var Menu = "";
+    var Menu = "<option>...</option>";
     for(var i = 0; i < this.length; i++){
         Menu += "<option value='" + this[i].id + "'>";
 
