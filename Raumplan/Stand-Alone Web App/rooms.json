@@ -12,12 +12,83 @@
         "stockwerk":0
     },
     {
+        "nummer":"003",
+        "name":"Lehrküche",
+        "id":"003",
+        "stockwerk":0
+    },
+    {
         "nummer":"005",
         "name":null,
         "id":"005",
         "stockwerk":0
-    }
-    ,
+    },
+    {
+        "nummer":"011",
+        "name":"Musik 1",
+        "id":"011",
+        "stockwerk":0
+    },
+    {
+        "nummer":"012",
+        "name":"Musik 2",
+        "id":"012",
+        "stockwerk":0
+    },
+    {
+        "nummer":"013",
+        "name":"Zeichnen 1",
+        "id":"013",
+        "stockwerk":0
+    },
+    {
+        "nummer":"015",
+        "name":"Zeichnen 2",
+        "id":"015",
+        "stockwerk":0
+    },
+    {
+        "nummer":"017",
+        "name":"Werkraum",
+        "id":"017",
+        "stockwerk":0
+    },
+    {
+        "nummer":"019",
+        "name":null,
+        "id":"019",
+        "stockwerk":0
+    },
+    {
+        "nummer":"020",
+        "name":"Oberstufenraum",
+        "id":"020",
+        "stockwerk":0
+    },
+    {
+        "nummer":"021",
+        "name":"Unterstufenraum",
+        "id":"021",
+        "stockwerk":0
+    },
+    {
+        "nummer":"022",
+        "name":"Hausmeister",
+        "id":"022",
+        "stockwerk":0
+    },
+    {
+        "nummer":"101",
+        "name":null,
+        "id":"101",
+        "stockwerk":1
+    },
+    {
+        "nummer":"204",
+        "name":"SB2",
+        "id":"204",
+        "stockwerk":2
+    },
     {
         "nummer":"205",
         "name":null,
