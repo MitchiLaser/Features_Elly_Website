@@ -190,5 +190,11 @@
         "name":"Lehrmittel/Theatersammlung",
         "id":"219",
         "stockwerk":2
+    },
+    {
+        "nummer":"301",
+        "name":"BIO3",
+        "id":"301",
+        "stockwerk":3
     }
 ]
