@@ -84,6 +84,24 @@
         "stockwerk":1
     },
     {
+        "nummer":"201",
+        "name":"GW1",
+        "id":"201",
+        "stockwerk":2
+    },
+    {
+        "nummer":"202",
+        "name":null,
+        "id":"202",
+        "stockwerk":2
+    },
+    {
+        "nummer":"203",
+        "name":"SB1",
+        "id":"203",
+        "stockwerk":2
+    },
+    {
         "nummer":"204",
         "name":"SB2",
         "id":"204",
@@ -93,6 +111,84 @@
         "nummer":"205",
         "name":null,
         "id":"205",
+        "stockwerk":2
+    },
+    {
+        "nummer":"206",
+        "name":"GW3/INF2",
+        "id":"206",
+        "stockwerk":2
+    },
+    {
+        "nummer":"207",
+        "name":null,
+        "id":"207",
+        "stockwerk":2
+    },
+    {
+        "nummer":"208",
+        "name":null,
+        "id":"208",
+        "stockwerk":2
+    },
+    {
+        "nummer":"209",
+        "name":null,
+        "id":"209",
+        "stockwerk":2
+    },
+    {
+        "nummer":"210",
+        "name":null,
+        "id":"210",
+        "stockwerk":2
+    },
+    {
+        "nummer":"211",
+        "name":null,
+        "id":"211",
+        "stockwerk":2
+    },
+    {
+        "nummer":"212",
+        "name":null,
+        "id":"212",
+        "stockwerk":2
+    },
+    {
+        "nummer":"213",
+        "name":null,
+        "id":"213",
+        "stockwerk":2
+    },
+    {
+        "nummer":"214",
+        "name":null,
+        "id":"214",
+        "stockwerk":2
+    },
+    {
+        "nummer":"215",
+        "name":null,
+        "id":"215",
+        "stockwerk":2
+    },
+    {
+        "nummer":"216",
+        "name":null,
+        "id":"216",
+        "stockwerk":2
+    },
+    {
+        "nummer":"218",
+        "name":"Lehrmittel/Serverraum",
+        "id":"218",
+        "stockwerk":2
+    },
+    {
+        "nummer":"219",
+        "name":"Lehrmittel/Theatersammlung",
+        "id":"219",
         "stockwerk":2
     }
 ]
