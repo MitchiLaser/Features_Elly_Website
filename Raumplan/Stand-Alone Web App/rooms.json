@@ -84,6 +84,108 @@
         "stockwerk":1
     },
     {
+        "nummer":"102",
+        "name":null,
+        "id":"102",
+        "stockwerk":1
+    },
+    {
+        "nummer":"103",
+        "name":null,
+        "id":"103",
+        "stockwerk":1
+    },
+    {
+        "nummer":"104",
+        "name":null,
+        "id":"104",
+        "stockwerk":1
+    },
+    {
+        "nummer":"105",
+        "name":null,
+        "id":"105",
+        "stockwerk":1
+    },
+    {
+        "nummer":null,
+        "name":"Gr. Lehrerzimmer",
+        "id":"LehrerzimmerGross",
+        "stockwerk":1
+    },
+    {
+        "nummer":null,
+        "name":"Kl. Lehrerzimmer",
+        "id":"LehrerzimmerKlein",
+        "stockwerk":1
+    },
+    {
+        "nummer":null,
+        "name":"Stv. Direktor",
+        "id":"Konrektor",
+        "stockwerk":1
+    },
+    {
+        "nummer":null,
+        "name":"Sekretariat",
+        "id":"Sekretariat",
+        "stockwerk":1
+    },
+    {
+        "nummer":null,
+        "name":"Büro der Schulleitung",
+        "id":"Direktion",
+        "stockwerk":1
+    },
+    {
+        "nummer":"111",
+        "name":"Lehrerbibliothek",
+        "id":"111",
+        "stockwerk":1
+    },
+    {
+        "nummer":"112",
+        "name":"Besprechungsraum",
+        "id":"112",
+        "stockwerk":1
+    },
+    {
+        "nummer":"113",
+        "name":"Besprechungsraum",
+        "id":"113",
+        "stockwerk":1
+    },
+    {
+        "nummer":"114",
+        "name":null,
+        "id":"114",
+        "stockwerk":1
+    },
+    {
+        "nummer":"115",
+        "name":null,
+        "id":"115",
+        "stockwerk":1
+    },
+    {
+        "nummer":"116",
+        "name":null,
+        "id":"116",
+        "stockwerk":1
+    },
+    {
+        "nummer":"117",
+        "name":null,
+        "id":"117",
+        "stockwerk":1
+    },
+    {
+        "nummer":"118",
+        "name":null,
+        "id":"118",
+        "stockwerk":1
+    },
+    {
         "nummer":"201",
         "name":"GW1",
         "id":"201",
@@ -195,6 +297,96 @@
         "nummer":"301",
         "name":"BIO3",
         "id":"301",
+        "stockwerk":3
+    },
+    {
+        "nummer":"302 / 303",
+        "name":"NWT",
+        "id":"302_303",
+        "stockwerk":3
+    },
+    {
+        "nummer":"304",
+        "name":null,
+        "id":"304",
+        "stockwerk":3
+    },
+    {
+        "nummer":"305",
+        "name":null,
+        "id":"305",
+        "stockwerk":3
+    },
+    {
+        "nummer":"306",
+        "name":"Ch 1",
+        "id":"306",
+        "stockwerk":3
+    },
+    {
+        "nummer":"308",
+        "name":"Ch 2",
+        "id":"308",
+        "stockwerk":3
+    },
+    {
+        "nummer":"310",
+        "name":"Informatik",
+        "id":"310",
+        "stockwerk":3
+    },
+    {
+        "nummer":"311",
+        "name":null,
+        "id":"311",
+        "stockwerk":3
+    },
+    {
+        "nummer":"312",
+        "name":null,
+        "id":"312",
+        "stockwerk":3
+    },
+    {
+        "nummer":"313",
+        "name":null,
+        "id":"313",
+        "stockwerk":3
+    },
+    {
+        "nummer":"314",
+        "name":"Fotolabor",
+        "id":"314",
+        "stockwerk":3
+    },
+    {
+        "nummer":"315",
+        "name":"PH3",
+        "id":"315",
+        "stockwerk":3
+    },
+    {
+        "nummer":"318",
+        "name":"Bio 2",
+        "id":"318",
+        "stockwerk":3
+    },
+    {
+        "nummer":"320",
+        "name":"Bio 1",
+        "id":"320",
+        "stockwerk":3
+    },
+    {
+        "nummer":"321",
+        "name":"Ph 1",
+        "id":"321",
+        "stockwerk":3
+    },
+    {
+        "nummer":"322",
+        "name":"Ph 2",
+        "id":"322",
         "stockwerk":3
     }
 ]

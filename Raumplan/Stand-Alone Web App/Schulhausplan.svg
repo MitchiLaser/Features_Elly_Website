@@ -2455,7 +2455,7 @@
        transform="matrix(0.96368764,0,0,0.96370593,-13.428967,-21.7177)"
        id="102">
       <path
-         id="path4906raum102"
+         id="raum102"
          style="fill:none;stroke:#385d8a;stroke-width:2.07534122;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 225.79983,194.53206 118.52921,0 0,-124.529221 -118.52921,0 z"
          inkscape:connector-curvature="0" />
