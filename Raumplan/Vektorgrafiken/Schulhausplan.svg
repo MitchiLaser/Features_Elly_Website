@@ -35,11 +35,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="512.35398"
-     inkscape:cy="530.00336"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="392.90099"
+     inkscape:cy="837.02172"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="1Obergeschoss"
      showgrid="false"
      inkscape:window-width="1301"
      inkscape:window-height="744"
@@ -62,7 +62,7 @@
      inkscape:label="Erdgeschoss"
      inkscape:groupmode="layer"
      id="Erdgeschoss"
-     style="display:inline">
+     style="display:none">
     <g
        transform="matrix(0.98078713,0,0,0.98079304,-33.757459,-66.098519)"
        id="tuerenEG">
@@ -666,25 +666,25 @@
          inkscape:connector-curvature="0"
          id="raumWCmEG"
          d="m 363.511,635.6674 0,53.0918 79.87696,0 0,39.13086 50.375,0 0,-92.22266 -130.25196,0 z"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="raumWCjEG"
          d="m 443.39453,727.88867 0,38.29883 -79.88086,0 0,55.20312 130.25,0 0,-93.50195 -50.36914,0 z"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          id="raumWCdEG"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 363.51023,727.8866 79.87153,0 0,-39.1261 -79.87153,0 z"
          inkscape:connector-curvature="0" />
       <path
          id="raumWChEG"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 363.50315,766.1879 79.88325,0 0,-38.29796 -79.88325,0 z"
          inkscape:connector-curvature="0" />
       <path
          id="raumWCb"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 493.77019,821.38396 44.96082,0 0,-93.49612 -44.96082,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -763,7 +763,7 @@
        id="Windfang">
       <path
          id="raumWindfang"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 149.20563,379.84873 111.45069,0 0,-130.03986 -111.45069,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -783,7 +783,7 @@
        id="treppenhausOstEG">
       <path
          id="raumtreppenhausOstEG"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 648.7107,341.48379 117.62001,0 0,-91.67629 -117.62001,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -803,7 +803,7 @@
        id="treppenhausWestEG">
       <path
          id="raumtreppenhausWestEG"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 43.975991,909.88405 148.310089,0 0,-88.368 -148.310089,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -823,7 +823,7 @@
        id="NebenraumZeichnen">
       <path
          id="raumNebenraumZeichnen"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 635.63179,909.88117 84.70853,0 0,-88.493 -84.70853,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -847,7 +847,7 @@
        id="NebenraumMusik">
       <path
          id="raumNebenraumMusik"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 555.66907,531.72882 164.67111,0 0,-45.95117 -164.67111,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -868,7 +868,7 @@
       <path
          inkscape:connector-curvature="0"
          d="m 431.1349,249.80447 78.85042,0 0,-49.88369 -78.85042,0 z"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="raumAbstellraum" />
       <text
          xml:space="preserve"
@@ -887,7 +887,7 @@
        id="Technik1">
       <path
          id="raumTechnik1"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 509.99348,249.80711 76.68693,0 0,-49.88593 -76.68693,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -907,7 +907,7 @@
        id="Technik2">
       <path
          id="raumTechnik2"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 149.20347,498.67068 111.45474,0 0,-37.64669 -111.45474,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -927,7 +927,7 @@
        id="Stuhllager">
       <path
          id="raumStuhllager"
-         style="fill:none;stroke:#385d8a;stroke-width:2.0391717;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.0391717;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 493.76418,727.8927 95.92636,0 0,-92.2262 -95.92636,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -951,7 +951,7 @@
        id="LagerBK">
       <path
          id="raumLagerBK"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 538.72578,821.3886 50.96397,0 0,-93.49612 -50.96397,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -977,7 +977,7 @@
          inkscape:connector-curvature="0"
          id="raumEingangshalle"
          d="m 260.65939,249.80802 0,385.86328 295.00976,0 0,-103.93945 -0.002,0 0,-45.95117 -0.002,0 0,-144.29102 93.03711,0 0,-91.68164 -388.04297,0 z"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917193;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917193;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
       <text
          sodipodi:linespacing="100%"
          id="text5042"
@@ -995,7 +995,7 @@
        id="001">
       <path
          id="raum001"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 108.18653,249.81349 239.30255,0 0,-136.09359 -239.30255,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -1030,11 +1030,11 @@
       <path
          inkscape:connector-curvature="0"
          d="m 347.49201,249.81005 83.64177,0 0,-49.89095 -83.64177,0 z"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="vorraum003" />
       <path
          id="raum003"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 347.5028,199.92988 239.16638,0 0,-86.20015 -239.16638,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -1068,7 +1068,7 @@
        id="005">
       <path
          id="raum005"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 586.67235,249.80835 133.65838,0 0,-136.07959 -133.65838,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -1088,7 +1088,7 @@
        id="011">
       <path
          id="raum011"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 555.66744,485.77679 164.66702,0 0,-144.2902 -164.66702,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -1122,7 +1122,7 @@
        id="012">
       <path
          id="raum012"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 555.67201,635.66589 164.66667,0 0,-103.93414 -164.66667,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -1157,7 +1157,7 @@
        id="013">
       <path
          id="raum013"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917193;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917193;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 589.69114,821.38726 130.64994,0 0,-185.71857 -130.64994,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -1191,7 +1191,7 @@
        id="015">
       <path
          id="raum015"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 575.88359,1044.3417 144.45593,0 0,-134.45872 -144.45593,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -1225,7 +1225,7 @@
        id="016">
       <path
          id="raum016"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 484.03744,1044.3406 91.84525,0 0,-134.45487 -91.84525,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -1259,7 +1259,7 @@
        id="017">
       <path
          id="raum017"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 330.07582,1044.3406 153.95853,0 0,-134.45389 -153.95853,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -1293,7 +1293,7 @@
        id="018">
       <path
          id="raum018"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 259.93918,1044.3399 70.1352,0 0,-134.45051 -70.1352,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -1327,7 +1327,7 @@
        id="019">
       <path
          id="raum019"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 107.66884,1044.3404 152.26547,0 0,-134.45093 -152.26547,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -1347,7 +1347,7 @@
        id="020">
       <path
          id="raum020"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 149.20372,821.51599 111.44823,0 0,-185.84621 -111.44823,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -1390,7 +1390,7 @@
        id="021">
       <path
          id="raum021"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 149.20243,635.66696 111.45444,0 0,-136.99569 -111.45444,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -1433,7 +1433,7 @@
        id="022">
       <path
          id="raum022"
-         style="fill:none;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.03917217;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 149.20781,461.01938 111.44956,0 0,-81.16459 -111.44956,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -2118,22 +2118,22 @@
        id="WC1OG">
       <path
          id="raumWCd1OG"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 407.571,559.0681 82.74111,0 0,-35.63459 -82.74111,0 z"
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
          id="raumWCm1OG"
          d="m 317.6277,594.31478 0,45.65437 64.69552,0 0,41.60234 107.98802,0 0,-87.25671 -172.68354,0 z"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534122;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534122;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="raumWCj1OG"
          d="m 382.32398,681.57539 0,36.74923 -64.6482,0 0,48.00935 172.63934,0 0,-84.75858 -107.99114,0 z"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="raumWCh1OG"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 407.571,594.31871 82.74111,0 0,-35.24787 -82.74111,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2189,7 +2189,7 @@
         <path
            inkscape:connector-curvature="0"
            d="m 581.666,591.21964 126.65678,0 0,-95.5271 -126.65678,0 z"
-           style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            id="raumLehrerzimmerKlein" />
         <text
            xml:space="preserve"
@@ -2212,7 +2212,7 @@
         <path
            inkscape:connector-curvature="0"
            d="m 581.66476,495.68639 126.658,0 0,-231.86719 -126.658,0 z"
-           style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            id="raumLehrerzimmerGross" />
         <text
            xml:space="preserve"
@@ -2236,7 +2236,7 @@
        id="Krankenzimmer">
       <path
          id="raumKrankenzimmer"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 407.571,523.43069 82.74111,0 0,-43.10459 -82.74111,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2256,7 +2256,7 @@
        id="Konrektor">
       <path
          id="raumKonrektor"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 581.666,681.54605 126.65678,0 0,-90.3231 -126.65678,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2276,7 +2276,7 @@
        id="Direktion">
       <path
          id="raumDirektion"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 581.66599,856.33104 126.65678,0 0,-83.68031 -126.65678,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2296,7 +2296,7 @@
        id="Videothek">
       <path
          id="raumVideothek"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 407.571,480.32587 82.74111,0 0,-53.99131 -82.74111,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2316,7 +2316,7 @@
        id="Sekretariat">
       <path
          id="raumSekretariat"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 581.66854,772.64559 126.65421,0 0,-91.0946 -126.65421,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2336,7 +2336,7 @@
        id="Archiv">
       <path
          id="raumArchiv"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 317.62814,718.32614 64.69993,0 0,-78.6624 -64.69993,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2356,7 +2356,7 @@
        id="treppenhausOst1OG">
       <path
          id="raumtreppenhausOst1OG"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 658.8223,263.81293 123.50667,0 0,-69.27981 -123.50667,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2376,7 +2376,7 @@
        id="treppenhausWest1OG">
       <path
          id="raumtreppenhausWest1OG"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 19.671922,856.33428 152.650678,0 0,-90.0071 -152.650678,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2396,7 +2396,7 @@
        id="Kopierraum">
       <path
          id="raumKopierraum"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 407.57146,426.32911 82.74111,0 0,-78.77476 -82.74111,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2418,7 +2418,7 @@
          inkscape:connector-curvature="0"
          id="raumBuecherei"
          d="m 317.63086,263.81445 0,330.50196 89.93555,0 0,-246.75977 82.74609,0 0,-83.74219 -172.68164,0 z"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534122;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534122;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
       <text
          sodipodi:linespacing="125%"
          id="textBuecherei"
@@ -2436,7 +2436,7 @@
        id="101">
       <path
          id="raum101"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 77.665805,194.53186 148.134685,0 0,-124.52923 -148.134685,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2456,7 +2456,7 @@
        id="102">
       <path
          id="raum102"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534122;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534122;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 225.79983,194.53206 118.52921,0 0,-124.529221 -118.52921,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2476,7 +2476,7 @@
        id="103">
       <path
          id="raum103"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 344.33312,194.53206 125.99478,0 0,-124.529217 -125.99478,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2496,7 +2496,7 @@
        id="104">
       <path
          id="raum104"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534122;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534122;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 470.32719,194.53206 126.00187,0 0,-124.529219 -126.00187,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2516,7 +2516,7 @@
        id="105">
       <path
          id="raum105"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 596.3311,194.53206 111.99406,0 0,-124.529219 -111.99406,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2536,7 +2536,7 @@
        id="111">
       <path
          id="raum111"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 538.32269,1014.6671 169.99982,0 0,-158.33161 -169.99982,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -2570,7 +2570,7 @@
        id="112">
       <path
          id="raum112"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534099;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534099;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 485.18056,1014.6671 53.14259,0 0,-117.69823 -53.14259,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -2608,7 +2608,7 @@
        id="113">
       <path
          id="raum113"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 368.85411,1014.6671 116.32664,0 0,-158.33157 -116.32664,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -2646,7 +2646,7 @@
        id="114">
       <path
          id="raum114"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 244.33324,1014.6671 124.51835,0 0,-158.33157 -124.51835,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -2672,7 +2672,7 @@
        id="115">
       <path
          id="raum115"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534122;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534122;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 77.667031,1014.667 166.664069,0 0,-158.3315 -166.664069,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2692,7 +2692,7 @@
        id="116">
       <path
          id="raum116"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 77.662474,766.32414 148.668926,0 0,-171.99844 -148.668926,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2712,7 +2712,7 @@
        id="117">
       <path
          id="raum117"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534146;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 77.662745,594.32783 148.670675,0 0,-167.99221 -148.670675,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2732,7 +2732,7 @@
        id="118">
       <path
          id="raum118"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534122;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534122;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 77.666746,426.33293 148.668384,0 0,-161.99755 -148.668384,0 z"
          inkscape:connector-curvature="0" />
       <text
@@ -2752,7 +2752,7 @@
        id="119">
       <path
          id="raum119"
-         style="fill:none;stroke:#385d8a;stroke-width:2.07534051;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#385d8a;stroke-width:2.07534051;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          d="m 77.665159,264.33234 78.659981,0 0,-69.79937 -78.659981,0 z"
          inkscape:connector-curvature="0" />
       <g
@@ -2905,7 +2905,7 @@
      inkscape:groupmode="layer"
      id="2Obergeschoss"
      inkscape:label="2Obergeschoss"
-     style="display:none">
+     style="display:inline">
     <g
        transform="matrix(0.99206575,0,0,0.99207026,-33.686794,-33.134827)"
        id="tueren2OG">
